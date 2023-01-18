@@ -1,0 +1,44 @@
+{"date_population": [
+ 		{
+ 		    "date": "1941",
+            "week": "Semana 1 (26/12)", 
+            "team": "Rodoviário 1",
+ 		    "population": 578970
+ 		},{
+ 		    "date": "1951",
+            "week": "Semana 2 (02/01)",
+            "team": "Rodoviário 2", 
+ 		    "population": 40676
+ 		},{
+ 		    "date": "1961",
+             "week": "Semana 3 (09/01)", 
+             "team": "Urbano 1", 
+ 		    "population": 120700
+ 		},{
+ 		    "date": "1971",
+            "week": "Semana 4 (16/01)",
+            "team": "Conceituação", 
+ 		    "population": 413000
+ 		},{
+            "date": "1981",
+            "week": "Semana 5 (23/01)",            
+            "team": "Urbano 2", 
+            "population": 842597
+        },{
+            "date": "1991",
+            "week": "Semana 6 (30/01)",
+            "team": "Desenvolvimento", 
+            "population": 395000
+        },{
+            "date": "2001",
+            "week": "Semana 7 (06/02)",
+            "team": "Chassi", 
+            "population": 510100
+        },{
+            "date": "2011",
+            "week": "Semana 8 (13/02)",
+            "team": "Terceiros", 
+            "population": 652597
+        }
+ 	]
+ }

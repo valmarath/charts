@@ -1,0 +1,36 @@
+{"date_population": [
+ 		{
+ 		    "date": "1941",
+            "week": "Semana 1 (26/12)", 
+ 		    "population": 406760
+ 		},{
+ 		    "date": "1951",
+            "week": "Semana 2 (02/01)", 
+ 		    "population": 778977
+ 		},{
+ 		    "date": "1961",
+             "week": "Semana 3 (09/01)", 
+ 		    "population": 1207000
+ 		},{
+ 		    "date": "1971",
+            "week": "Semana 4 (16/01)",
+ 		    "population": 1654000
+ 		},{
+            "date": "1981",
+            "week": "Semana 5 (23/01)",
+            "population": 2922000
+        },{
+            "date": "1991",
+            "week": "Semana 6 (30/01)",
+            "population": 4130000
+        },{
+            "date": "2001",
+            "week": "Semana 7 (06/02)",
+            "population": 5101000
+        },{
+            "date": "2011",
+            "week": "Semana 8 (13/02)",
+            "population": 8425970
+        }
+ 	]
+ }
